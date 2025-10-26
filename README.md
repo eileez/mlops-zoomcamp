@@ -1,6 +1,7 @@
 # mlops-zoomcamp
 
 MLOps Project : Prediction of trip duration based on pickup and dropoff location.
+
 :dart: getting hands-on experience in MLOps
 
 :pencil: Data : NYC TLC Trip Records
